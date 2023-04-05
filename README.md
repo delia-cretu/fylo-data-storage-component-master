@@ -13,8 +13,6 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,12 +27,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-[FireShot](https://getfireshot.com/)
-
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/delia-cretu/fylo-data-storage-component-master
+- Live Site URL: https://delia-cretu.github.io/fylo-data-storage-component-master/
 
 ## My process
 
@@ -43,8 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
