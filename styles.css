@@ -181,10 +181,9 @@ body {
     margin-top: 20px;
   }
   .cloud {
-    border-bottom-right-radius: 0px;
+    border-bottom-right-radius: 10px;
     position: absolute;
-    z-index: 5;
-    top: 155px;
+    top: 380px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
